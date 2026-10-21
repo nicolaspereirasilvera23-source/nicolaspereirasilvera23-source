@@ -23,7 +23,7 @@
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="58%" valign="top"><h2>The point of view</h2><blockquote>Building useful things and sharing the work in public.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>5</strong> repos<br /><strong>89</strong> contributions<br /><strong>6</strong> followers</p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Backend | Fullstack | QA <br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>5</strong> repos<br /><strong>89</strong> contributions<br /><strong>6</strong> followers</p></td>
 </tr>
 </table>
 
@@ -47,7 +47,7 @@
   <img src="https://www.gitskins.com/api/section/stack?username=nicolaspereirasilvera23-source&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239936018%3Fu%3Db370940defee656a7d59165117755007b938f17f%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Nicolas Pereira animated technology stack" />
 </picture>
 
-<p align="center"><sub>TypeScript · Golang · Python · ReactJS · HTML · PLpgSQL · tools chosen for the work, not the trend</sub></p>
+<p align="center"><sub>TypeScript · Golang · Python · ReactJS · PLpgSQL · tools chosen for the work, not the trend</sub></p>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
 
